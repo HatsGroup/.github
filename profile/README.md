@@ -28,7 +28,7 @@ We hope you find our work useful.
     <td align="center" width="300" style="padding: 20px;">
       <img src="https://github.com/SPS1010.png" style="width: 150px; height: 150px; border-radius: 10%; object-fit: cover;"><br>
       <strong style="font-size: 1.2em;"><a href="https://github.com/SPS1010">SPS</a></strong><br>
-      <p style="margin: 10px 0; font-style: italic;">"custom functions would make this faster."</p>
+      <p style="margin: 10px 0; font-style: italic;">"Skill Issue"</p>
     </td>
     <td align="center" width="300" style="padding: 20px;">
       <img src="https://github.com/0xhks.png" style="width: 150px; height: 150px; border-radius: 10%; object-fit: cover;"><br>
