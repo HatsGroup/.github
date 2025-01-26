@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/lorem" alt="Banner Image" width="800"/>
+  <img src="https://github.com/user-attachments/assets/4fd9c2a5-0f63-4626-b5ed-ab0478b8507f" alt="Banner Image" width="800"/>
 </p>
-
 <h1 align="center">Hello. We are <strong>H.A.T.S</strong></h1>
 
 <p align="center">
