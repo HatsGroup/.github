@@ -35,6 +35,11 @@ We hope you find our work useful.
       <strong style="font-size: 1.2em;"><a href="https://github.com/0xhks">0xhks</a></strong><br>
       <p style="margin: 10px 0; font-style: italic;">"net zherty, net podeby"</p>
     </td>
+    <td align="center" width="300" style="padding: 20px;">
+      <img src="https://github.com/foolishunter.png" style="width: 150px; height: 150px; border-radius: 10%; object-fit: cover;"><br>
+      <strong style="font-size: 1.2em;"><a href="https://github.com/foolishunter">foolishunter</a></strong><br>
+      <p style="margin: 10px 0; font-style: italic;">"i like momos"</p>
+    </td>
   </tr>
 </table>
 </div>
