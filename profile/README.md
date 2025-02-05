@@ -23,7 +23,7 @@ We hope you find our work useful.
     <td align="center" width="300" style="padding: 20px;">
       <img src="https://github.com/zeusssz.png" style="width: 150px; height: 150px; border-radius: 10%; object-fit: cover;"><br>
       <strong style="font-size: 1.2em;"><a href="https://github.com/zeusssz">zeus</a></strong><br>
-      <p style="margin: 10px 0; font-style: italic;">"beep boop kaboom"</p>
+      <p style="margin: 10px 0; font-style: italic;">"beep boop: kaboom"</p>
     </td>
     <td align="center" width="300" style="padding: 20px;">
       <img src="https://github.com/SPS1010.png" style="width: 150px; height: 150px; border-radius: 10%; object-fit: cover;"><br>
